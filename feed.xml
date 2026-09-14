@@ -10,5 +10,29 @@
     <itunes:image href="https://rabmeireliyahu.github.io/tefila/portada.jpg"/>
     <itunes:category text="Religion &amp; Spirituality"/>
     <itunes:explicit>false</itunes:explicit>
-  </channel>
+      <item>
+      <title>Latznu</title>
+      <description>Latznu</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-tofi-cherem/Latznu.mp3" length="8714809" type="audio/mpeg"/>
+      <guid isPermaLink="false">Latznu.mp3</guid>
+      <pubDate>Mon, 14 Sep 2026 12:03:12 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Maradnu</title>
+      <description>Maradnu</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-tofi-cherem/Maradnu.mp3" length="12536992" type="audio/mpeg"/>
+      <guid isPermaLink="false">Maradnu.mp3</guid>
+      <pubDate>Mon, 14 Sep 2026 12:03:58 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Niafnu, Sararnu, Avinu</title>
+      <description>Niafnu, Sararnu, Avinu</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-tofi-cherem/Niafnu%2C_Sararnu%2C_Avinu.mp3" length="12710686" type="audio/mpeg"/>
+      <guid isPermaLink="false">Niafnu,_Sararnu,_Avinu.mp3</guid>
+      <pubDate>Mon, 14 Sep 2026 12:04:48 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+</channel>
 </rss>
