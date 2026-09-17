@@ -1,48 +1,58 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-  <channel>
-    <title>Rab Tofi Cherem</title>
-    <description>Shiurim del Rab Tofi Cherem: Tefila, halaja y mas. Otzar HaTorah - אוצר התורה</description>
-    <link>https://rabmeireliyahu.github.io/tefila</link>
-    <language>es</language>
-    <itunes:author>Rab Tofi Cherem</itunes:author>
-    <itunes:owner><itunes:name>Rab Tofi Cherem</itunes:name><itunes:email>rabmeireliyahu@gmail.com</itunes:email></itunes:owner>
-    <itunes:image href="https://rabmeireliyahu.github.io/tefila/portada_202609151304.jpg"/>
-    <itunes:category text="Religion &amp; Spirituality"/>
-    <itunes:explicit>false</itunes:explicit>
-      <item>
-      <title>Latznu</title>
-      <description>Latznu</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-tofi-cherem/Latznu.mp3" length="8714809" type="audio/mpeg"/>
-      <guid isPermaLink="false">Latznu.mp3</guid>
-      <pubDate>Mon, 14 Sep 2026 12:03:12 -0000</pubDate>
-      <itunes:explicit>false</itunes:explicit>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Rab Tofi Cherem</title>
+    <description>Shiurim del Rab Tofi Cherem: Tefila, halaja y mas. Otzar HaTorah - אוצר התורה</description>
+    <link>https://rabmeireliyahu.github.io/tefila</link>
+    <language>es</language>
+    <itunes:author>Rab Tofi Cherem</itunes:author>
+    <itunes:owner><itunes:name>Rab Tofi Cherem</itunes:name><itunes:email>rabmeireliyahu@gmail.com</itunes:email></itunes:owner>
+    <itunes:image href="https://rabmeireliyahu.github.io/tefila/portada_202609151304.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+      <item>
+      <title>Latznu</title>
+      <description>Latznu</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-tofi-cherem/Latznu.mp3" length="8714809" type="audio/mpeg"/>
+      <guid isPermaLink="false">Latznu.mp3</guid>
+      <pubDate>Mon, 14 Sep 2026 12:03:12 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Maradnu</title>
+      <description>Maradnu</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-tofi-cherem/Maradnu.mp3" length="12536992" type="audio/mpeg"/>
+      <guid isPermaLink="false">Maradnu.mp3</guid>
+      <pubDate>Mon, 14 Sep 2026 12:03:58 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Niafnu, Sararnu, Avinu</title>
+      <description>Niafnu, Sararnu, Avinu</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-tofi-cherem/Niafnu%2C_Sararnu%2C_Avinu.mp3" length="12710686" type="audio/mpeg"/>
+      <guid isPermaLink="false">Niafnu,_Sararnu,_Avinu.mp3</guid>
+      <pubDate>Mon, 14 Sep 2026 12:04:48 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Maradnu</title>
-      <description>Maradnu</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-tofi-cherem/Maradnu.mp3" length="12536992" type="audio/mpeg"/>
-      <guid isPermaLink="false">Maradnu.mp3</guid>
-      <pubDate>Mon, 14 Sep 2026 12:03:58 -0000</pubDate>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Niafnu, Sararnu, Avinu</title>
-      <description>Niafnu, Sararnu, Avinu</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-tofi-cherem/Niafnu%2C_Sararnu%2C_Avinu.mp3" length="12710686" type="audio/mpeg"/>
-      <guid isPermaLink="false">Niafnu,_Sararnu,_Avinu.mp3</guid>
-      <pubDate>Mon, 14 Sep 2026 12:04:48 -0000</pubDate>
+      <title>PASHANU</title>
+      <description>PASHANU</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-tofi-cherem/PASHANU.mp3" length="7110573" type="audio/mpeg"/>
+      <guid isPermaLink="false">PASHANU.mp3</guid>
+      <pubDate>Tue, 15 Sep 2026 12:18:15 -0000</pubDate>
+      <itunes:duration>00:07:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>PASHANU</title>
-      <description>PASHANU</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-tofi-cherem/PASHANU.mp3" length="7110573" type="audio/mpeg"/>
-      <guid isPermaLink="false">PASHANU.mp3</guid>
-      <pubDate>Tue, 15 Sep 2026 12:18:15 -0000</pubDate>
-      <itunes:duration>00:07:24</itunes:duration>
+      <title>Rab Tofi Cherem · Final del viduy</title>
+      <description>Rab Tofi Cherem · Final del viduy</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-tofi-cherem/Rab%20Tofi%20Cherem%20%C2%B7%20Final%20del%20viduy.mp3" length="13600941" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Tofi Cherem · Final del viduy.mp3</guid>
+      <pubDate>Thu, 17 Sep 2026 10:47:38 -0000</pubDate>
+      <itunes:duration>00:14:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
-</channel>
-</rss>
+
+</channel>
+</rss>
