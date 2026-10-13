@@ -88,5 +88,14 @@
       <itunes:duration>00:12:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Clase de Tefilá · Rab Tofi Cherem 13-10-2026</title>
+      <description>Clase de Tefilá · Rab Tofi Cherem 13-10-2026</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-tofi-cherem/Clase%20de%20Tefil%C3%A1%20%C2%B7%20Rab%20Tofi%20Cherem%2013-10-2026.mp3" length="36909" type="audio/mpeg"/>
+      <guid isPermaLink="false">Clase de Tefilá · Rab Tofi Cherem 13-10-2026.mp3</guid>
+      <pubDate>Tue, 13 Oct 2026 12:41:15 -0000</pubDate>
+      <itunes:duration>00:00:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>
