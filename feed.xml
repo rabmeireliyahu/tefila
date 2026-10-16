@@ -115,5 +115,14 @@
       <itunes:duration>00:15:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Rab Tofi Cherem · Perashat Noaj</title>
+      <description>Rab Tofi Cherem · Perashat Noaj</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-tofi-cherem/Rab%20Tofi%20Cherem%20%C2%B7%20Perashat%20Noaj.mp3" length="12148269" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Tofi Cherem · Perashat Noaj.mp3</guid>
+      <pubDate>Fri, 16 Oct 2026 13:27:31 -0000</pubDate>
+      <itunes:duration>00:12:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>
