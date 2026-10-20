@@ -133,5 +133,14 @@
       <itunes:duration>00:13:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Rab Tofi Cherem · Amor a Hashem, parte 6</title>
+      <description>Rab Tofi Cherem · Amor a Hashem, parte 6</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-tofi-cherem/Rab%20Tofi%20Cherem%20%C2%B7%20Amor%20a%20Hashem%2C%20parte%206.mp3" length="11699757" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Tofi Cherem · Amor a Hashem, parte 6.mp3</guid>
+      <pubDate>Tue, 20 Oct 2026 10:57:15 -0000</pubDate>
+      <itunes:duration>00:12:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>
