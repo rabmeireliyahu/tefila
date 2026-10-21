@@ -142,5 +142,14 @@
       <itunes:duration>00:12:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Rab Tofi Cherem · PELE YOETZ, Amor a uno mismo, parte 1</title>
+      <description>Rab Tofi Cherem · PELE YOETZ, Amor a uno mismo, parte 1</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-tofi-cherem/Rab%20Tofi%20Cherem%20%C2%B7%20PELE%20YOETZ%2C%20Amor%20a%20uno%20mismo%2C%20parte%201.mp3" length="8225709" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Tofi Cherem · PELE YOETZ, Amor a uno mismo, parte 1.mp3</guid>
+      <pubDate>Wed, 21 Oct 2026 09:27:51 -0000</pubDate>
+      <itunes:duration>00:08:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>
