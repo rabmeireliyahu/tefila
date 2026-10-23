@@ -160,5 +160,14 @@
       <itunes:duration>00:12:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Rab Tofi Cherem · PERASHAT LEJ LEJA</title>
+      <description>Rab Tofi Cherem · PERASHAT LEJ LEJA</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-tofi-cherem/Rab%20Tofi%20Cherem%20%C2%B7%20PERASHAT%20LEJ%20LEJA.mp3" length="7728045" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Tofi Cherem · PERASHAT LEJ LEJA.mp3</guid>
+      <pubDate>Fri, 23 Oct 2026 12:43:33 -0000</pubDate>
+      <itunes:duration>00:08:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>
