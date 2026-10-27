@@ -169,5 +169,14 @@
       <itunes:duration>00:08:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Rab Tofi Cherem · PELE YOETZ, Amor a los hijos. Parte 1</title>
+      <description>Rab Tofi Cherem · PELE YOETZ, Amor a los hijos. Parte 1</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-tofi-cherem/Rab%20Tofi%20Cherem%20%C2%B7%20PELE%20YOETZ%2C%20Amor%20a%20los%20hijos.%20Parte%201.mp3" length="12175149" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Tofi Cherem · PELE YOETZ, Amor a los hijos. Parte 1.mp3</guid>
+      <pubDate>Tue, 27 Oct 2026 10:54:02 -0000</pubDate>
+      <itunes:duration>00:12:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>
