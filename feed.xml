@@ -178,5 +178,14 @@
       <itunes:duration>00:12:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Rab Tofi Cherem · Amor a los hijos, parte 2</title>
+      <description>Rab Tofi Cherem · Amor a los hijos, parte 2</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-tofi-cherem/Rab%20Tofi%20Cherem%20%C2%B7%20Amor%20a%20los%20hijos%2C%20parte%202.mp3" length="10674093" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Tofi Cherem · Amor a los hijos, parte 2.mp3</guid>
+      <pubDate>Wed, 28 Oct 2026 09:21:16 -0000</pubDate>
+      <itunes:duration>00:11:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>
