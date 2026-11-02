@@ -205,5 +205,14 @@
       <itunes:duration>00:11:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Rab Tofi Cherem · PELE YOETZ, Amor entre hombre y mujer</title>
+      <description>Rab Tofi Cherem · PELE YOETZ, Amor entre hombre y mujer</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-tofi-cherem/Rab%20Tofi%20Cherem%20%C2%B7%20PELE%20YOETZ%2C%20Amor%20entre%20hombre%20y%20mujer.mp3" length="10005549" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Tofi Cherem · PELE YOETZ, Amor entre hombre y mujer.mp3</guid>
+      <pubDate>Mon, 02 Nov 2026 12:46:45 -0000</pubDate>
+      <itunes:duration>00:10:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>
