@@ -241,5 +241,14 @@
       <itunes:duration>00:10:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Rab Tofi Cherem · Perashat Jaye Sara</title>
+      <description>Rab Tofi Cherem · Perashat Jaye Sara</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-tofi-cherem/Rab%20Tofi%20Cherem%20%C2%B7%20Perashat%20Jaye%20Sara.mp3" length="12037677" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Tofi Cherem · Perashat Jaye Sara.mp3</guid>
+      <pubDate>Fri, 06 Nov 2026 09:32:01 -0000</pubDate>
+      <itunes:duration>00:12:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>
