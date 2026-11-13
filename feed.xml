@@ -286,5 +286,14 @@
       <itunes:duration>00:10:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Rab Tofi Cherem · PERASHAT TOLEDOT</title>
+      <description>Rab Tofi Cherem · PERASHAT TOLEDOT</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-tofi-cherem/Rab%20Tofi%20Cherem%20%C2%B7%20PERASHAT%20TOLEDOT.mp3" length="8030253" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Tofi Cherem · PERASHAT TOLEDOT.mp3</guid>
+      <pubDate>Fri, 13 Nov 2026 11:08:28 -0000</pubDate>
+      <itunes:duration>00:08:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>
