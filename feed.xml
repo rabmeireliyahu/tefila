@@ -313,5 +313,14 @@
       <itunes:duration>00:06:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Rab Tofi Cherem · PERASHAT VAYETZE</title>
+      <description>Rab Tofi Cherem · PERASHAT VAYETZE</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-tofi-cherem/Rab%20Tofi%20Cherem%20%C2%B7%20PERASHAT%20VAYETZE.mp3" length="11369516" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Tofi Cherem · PERASHAT VAYETZE.mp3</guid>
+      <pubDate>Fri, 20 Nov 2026 11:07:12 -0000</pubDate>
+      <itunes:duration>00:11:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>
