@@ -340,5 +340,14 @@
       <itunes:duration>00:07:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Rab Tofi Cherem · PELE YOETZ, amor al prójimo, parte 1</title>
+      <description>Rab Tofi Cherem · PELE YOETZ, amor al prójimo, parte 1</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-tofi-cherem/Rab%20Tofi%20Cherem%20%C2%B7%20PELE%20YOETZ%2C%20amor%20al%20pr%C3%B3jimo%2C%20parte%201.mp3" length="4358060" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Tofi Cherem · PELE YOETZ, amor al prójimo, parte 1.mp3</guid>
+      <pubDate>Thu, 26 Nov 2026 09:35:52 -0000</pubDate>
+      <itunes:duration>00:04:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>
