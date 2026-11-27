@@ -349,5 +349,14 @@
       <itunes:duration>00:04:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Rab Tofi Cherem · PERASHAT VAISHLAJ</title>
+      <description>Rab Tofi Cherem · PERASHAT VAISHLAJ</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-tofi-cherem/Rab%20Tofi%20Cherem%20%C2%B7%20PERASHAT%20VAISHLAJ.mp3" length="13850156" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Tofi Cherem · PERASHAT VAISHLAJ.mp3</guid>
+      <pubDate>Fri, 27 Nov 2026 09:29:32 -0000</pubDate>
+      <itunes:duration>00:14:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>
